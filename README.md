@@ -2,8 +2,6 @@
 
 An ergonomic ortholinear split keyboard made to be low profile yet enjoyable and comfortable to use. It features a 6 column by 3 row layout similar to the Corne ergo keyboard but instead with a full width bottom "thumb cluster" that hopefully helps in moving from a traditional keyboard to a split ergo thumb cluster. This is mostly based around many of my current workflows being based around using CMD CTRL and ALT together on my mac so I wanted a way to reliably (no mod tap/hold on home row) press all of them while pressing all the other keys. I have an absolem/voyager style sticking out thumb cluster which allows for a more natural open hand. I wanted to make this project to help with the uncomfortable ergonomics of my desk that make me hunch forward to my keyboard whereas I'd rather my arms be further apart.
 
-<img src=assets/cad.png alt="Cad" width="500"/>
-
 ## Features
 
 - Ortholinear
